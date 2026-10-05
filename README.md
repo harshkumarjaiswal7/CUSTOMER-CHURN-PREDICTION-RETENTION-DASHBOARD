@@ -42,4 +42,4 @@ streamlit run "CUSTOMER CHURN PREDICTION & RETENTION DASHBOARD.py"
 ## 👤 Author
 
 **Harsh Kumar Jaiswal**
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/harshkumarjaiswal7)
+[LinkedIn](https://www.linkedin.com/in/harsh-kumar-8a17b2380) · [GitHub](https://github.com/harshkumarjaiswal7)
